@@ -1,4 +1,4 @@
-# End-Pard-of-Image-generation
+# Uncertainity Analysis
 
 # M87 Bayesian Uncertainty Quantification (GPU Accelerated)
 
